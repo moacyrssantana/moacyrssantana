@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/juniorvilasboas">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juniorvilasboas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorvilasboas&layout=compact&langs_count=16&theme=dracula" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moacyrssantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moacyrssantana&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
 
@@ -36,10 +36,10 @@
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
   <a href="https://www.youtube.com/channel/UCnDyM9jpUmhx2ej6R3GrLXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/moacyr.santana" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/moacyrsantana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:junior.vilasboas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/moacyrssantana" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/moacyrssantana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:moacyrssantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/juniorvilasboas/juniorvilasboas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/moacyrssantana/moacyrssantana/blob/output/github-contribution-grid-snake.svg)
   
 </div>
